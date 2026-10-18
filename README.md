@@ -1,37 +1,24 @@
-# HTML & SVG Web Development Projects
+# Major Web Browsers 🌐
 
-Welcome to my portfolio repository of web development labs and projects! This repository contains various hands-on HTML, multimedia, and SVG projects created as part of my frontend web development learning journey.
+An informative, semantically structured web application highlighting major web browsers, their core features, and underlying technologies, built during my frontend software development training.
 
----
+## 🚀 Features
 
-## 🚀 Projects Included
-
-### 1. 💖 SVG Heart Icon (`heart-icon.html`)
-* **Description:** A scalable vector graphic (SVG) heart icon created using native HTML `<svg>` and `<path>` elements.
-* **Key Concepts:**
-  * Custom path drawing with the `d` attribute.
-  * SVG viewport configuration (`viewBox`, `width`, `height`).
-  * Vector styling and color fill properties (`fill="red"`).
-
-### 2. 🎵 Media & Video Players (`media-player.html`, `music-player.html`, `video-player.html`)
-* **Description:** Interactive media interface layouts built with HTML5 audio and video elements.
-* **Key Concepts:** Embedding audio/video streams, native control attributes, and responsive container layouts.
-
-### 3. 📚 Web Pages & Practice Labs (`bookstore.html`, `travel.html`)
-* **Description:** Structural HTML layouts for e-commerce and promotional web pages.
-* **Key Concepts:** Semantic HTML structure, headings, lists, links, and asset embedding.
-
----
+* **Semantic HTML Structure:** Built using standard HTML5 elements like `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` for optimal accessibility and clean markup.
+* **Informational Content Layout:** Structured presentation of browser features, security aspects, and web compatibility topics.
+* **Clean Document Flow:** Organized text, lists, and headings providing an easy-to-read layout for web users.
 
 ## 🛠️ Technologies Used
 
-* **HTML5:** Semantic elements, embedded audio/video elements, structural layout.
-* **SVG:** Scalable vector graphics path rendering.
-* **Git & GitHub:** Version control and remote repository management.
+* **HTML5**
 
----
+## 📂 File Structure
 
-## 👤 Author
+* `browsers.html` - Main HTML document showcasing web browsers
+* `README.md` - Repository documentation
 
-* **Name:** Oyugi
-* **GitHub:** [@Regalson001](https://github.com/Regalson001)
+## 🚀 How to View Locally
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/Regalson001/Major-Web-Browsers.git](https://github.com/Regalson001/Major-Web-Browsers.git)
